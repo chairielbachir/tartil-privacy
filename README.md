@@ -1,2 +1,3 @@
-# tartil-privacy
-Politique de confidentialité de l'application Tartil (ترتيل) – page publique pour Google Play
+# Tartil – Politique de confidentialité
+
+Page publique : https://chairielbachir.github.io/tartil-privacy/
